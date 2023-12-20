@@ -1,0 +1,149 @@
+body {
+
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/black/black-trianglify-b6181ec2.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    overflow: scroll;
+}
+
+.header {
+    height: 60px;
+    background-color: rgb(114, 114, 114);
+    text-align: right;
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    
+
+}
+
+
+.footer {
+    background-color: rgb(114, 114, 114);
+    height: 20px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.portrait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border: 1px;
+    border-color: white;
+    border-style: initial;
+    border-radius: 25px;
+}
+
+h4 {
+    font-style: italic;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.vid {
+
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.tableau {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left {
+    left: 5px;
+    top: 150px;
+    bottom: -30px;
+    width: 275px;
+    position: absolute;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    
+    
+    
+
+}
+
+.right {
+    right: 5px;
+    top: 150px;
+    bottom: -30px;
+    width: 275px;
+    position: absolute;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    
+}
+
+.middlel {
+    right: 650px;
+    top: 400px;
+    left: 295px;
+    height: 163px;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    position: absolute;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.middler {
+    right: 295px;
+    top: 400px;
+    left: 650px;
+    height: 163px;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    position: absolute;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+.skilz {
+
+    text-align: left;
+    font-size: small;
+}
+
+.skilzright {
+    text-align: justify;
+    font-size: small;
+    
+    
+}
